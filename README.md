@@ -1,2 +1,2 @@
 # grocessory_store
-a falsk application for grocessory management system 
+a flask application for grocessory management system 
